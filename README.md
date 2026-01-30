@@ -94,7 +94,3 @@ PARSAL/
 ## ⚠️ Disclaimer
 
 This tool is intended for educational and research purposes. Please respect the Terms of Service of the respective publishers. Automated scraping may be restricted or prohibited by some providers. Ensure you have the necessary access rights (e.g., university VPN or institutional subscription) to download full-text articles from subscription-based journals.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
