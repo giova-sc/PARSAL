@@ -2,8 +2,6 @@
 
 PARSAL is a powerful, Python-based tool designed to automate the retrieval, downloading, and parsing of scientific literature. It features a modern graphical user interface (GUI) and supports asynchronous downloading from multiple major academic publishers.
 
-![PARSAL Logo](chilab_logo.png)
-
 ## 🚀 Key Features
 
 *   **Multi-Publisher Support:** Search and download articles from:
