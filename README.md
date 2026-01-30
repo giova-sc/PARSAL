@@ -1,6 +1,11 @@
 # PARSAL (Pipeline for Automatic Retrieval and Structuring of Academic Literature)
 
-PARSAL is a powerful, Python-based tool designed to automate the retrieval, downloading, and parsing of scientific literature. It features a modern graphical user interface (GUI) and supports asynchronous downloading from multiple major academic publishers.
+PARSAL is a Python-based tool designed to automate the retrieval, downloading, and parsing of scientific literature. It features a modern graphical user interface (GUI) and supports asynchronous downloading from multiple major academic publishers.
+
+This project is part of my Master's Thesis project, all right reserved to Chilab lab. This repo is made to show all my work developed. 
+
+![PARSAL Logo](chilab_logo.png)
+
 
 ## 🚀 Key Features
 
