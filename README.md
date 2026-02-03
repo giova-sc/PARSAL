@@ -25,7 +25,6 @@ The repository is published for portfolio and demonstration purposes, showcasing
     *   Clean data export to JSON with standardized fields.
 *   **Smart Filtering:** Search by keyword and publication year.
 
-  ![PARSAL_GUI.JPG]
 
 ## 🛠️ Installation
 
